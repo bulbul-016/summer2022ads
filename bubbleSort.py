@@ -10,3 +10,4 @@ def bubbleSort(alist):
 
 alist=[input().split()]
 bubbleSort(alist)
+print(alist)
